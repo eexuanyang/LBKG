@@ -8,4 +8,4 @@
   The generated .out files can be used for NIST test.
 
 2. To evaluate the deep learning proposed in [R2], please refer to https://github.com/XinweiZhang1998/Code-of-KGNet.
-[R2] X. Zhang, G. Li, J. Zhang, A. Hu, Z. Hou and B. Xiao, "Deep-Learning-Based Physical-Layer Secret Key Generation for FDD Systems," (https://ieeexplore.ieee.org/document/9526766) in IEEE Internet of Things Journal, vol. 9, no. 8, pp. 6081-6094, 15 April15, 2022, doi: 10.1109/JIOT.2021.3109272.
+[R2] X. Zhang, G. Li, J. Zhang, A. Hu, Z. Hou and B. Xiao, "Deep-Learning-Based Physical-Layer Secret Key Generation for FDD Systems," in IEEE Internet of Things Journal, vol. 9, no. 8, pp. 6081-6094, 15 April15, 2022, doi: 10.1109/JIOT.2021.3109272. (https://ieeexplore.ieee.org/document/9526766)
