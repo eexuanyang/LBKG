@@ -1,0 +1,10 @@
+1. To obatin the result of Table VII, the corresponding .out can be find in the following folders:
+  (w/ Z w/ seg) & (w/ Z w/o seg): Fig16a_1.term_Z_128_Amp_0_8_mv_300_new_noise_Z_success
+
+  (w/o Z w/ seg): TabVI_5.sec_performance_A_B_new_noise_Z
+
+  (w/o Z w/o seg): Fig16a_2.term_wo_Z_key_128_new_noise_Z
+
+  The generated .out files can be used for NIST test.
+
+2. To evaluate the deep learning proposed in [R1], please refer to [https://github.com/XinweiZhang1998/Code-of-KGNet](https://github.com/XinweiZhang1998/Code-of-KGNet)
